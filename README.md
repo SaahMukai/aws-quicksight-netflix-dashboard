@@ -1,4 +1,3 @@
-# aws-quicksight-netflix-dashboard
 # 🎬 Netflix Dashboard com AWS QuickSight
 
 Projeto realizado como parte da trilha de aprendizado da plataforma [Nextwork](https://learn.nextwork.org/), com foco em visualização de dados usando AWS.
