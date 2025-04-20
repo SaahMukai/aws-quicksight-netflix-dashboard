@@ -22,7 +22,7 @@ Explorar o processo de construção de um painel de visualização com **Amazon 
 
 ## 📸 Preview do Dashboard
 
-![Dashboard Netflix QuickSight](./imagens/netflix_quicksight_dashboard.png)
+![Dashboard Netflix QuickSight](./Imagens/netflix_quicksight_dashboard.png)
 
 ---
 
