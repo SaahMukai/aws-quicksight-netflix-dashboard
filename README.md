@@ -36,7 +36,7 @@ O dataset utilizado está disponível publicamente no Kaggle. Ele contém dados 
 
 - **Amazon S3** – Utilizado para armazenar os dados brutos em formato CSV, garantindo fácil ingestão e escalabilidade.
 - **Amazon QuickSight** – Ferramenta de BI utilizada para se conectar diretamente ao S3, realizar análises e criar visualizações dinâmicas.
-- 
+
 ---
 
 ## Preview do Dashboard
@@ -44,12 +44,12 @@ O dataset utilizado está disponível publicamente no Kaggle. Ele contém dados 
 ![Dashboard Netflix QuickSight](./Imagens/netflix_quicksight_dashboard.png)
 
 ---
-⭐ 
+## ⭐ Outras partes realizadas no projeto
 
 [Etapas do Projeto](etapas.md)
 
 [Armazenamento e Conexão](armconex.md)
 
-[Aprendizados](aprendizado.md)
+[Aprendizados](aprendizado.md) --> Veja aqui o porque do uso do gráfico de rosca
 
 ---
