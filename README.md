@@ -44,9 +44,12 @@ O dataset utilizado está disponível publicamente no Kaggle. Ele contém dados 
 ![Dashboard Netflix QuickSight](./Imagens/netflix_quicksight_dashboard.png)
 
 ---
+⭐ 
 
 [Etapas do Projeto](etapas.md)
+
 [Armazenamento e Conexão](armconex.md)
+
 [Aprendizados](aprendizado.md)
 
 ---
