@@ -22,7 +22,8 @@ Esse projeto me proporcionou uma visão prática e integrada do fluxo de ingest�
 📉 Ordenação decrescente para facilitar comparações e priorizar as informações mais relevantes.
 
 
-‼️***Incluí o gráfico de rosca com valor central de forma intencional, para observar o impacto visual e entender as limitações práticas desse formato comparado a alternativas como gráficos de barras horizontais — mais alinhados às boas práticas.
+
+***Incluí o gráfico de rosca com valor central de forma intencional, para observar o impacto visual e entender as limitações práticas desse formato comparado a alternativas como gráficos de barras horizontais, mais alinhados às boas práticas.
 
 Seguindo o livro Storytelling com Dados, a autora Cole Nussbaumer Knaflic deixa claro que tanto o gráfico de rosca quanto o de pizza devem ser evitados, pois:
 
