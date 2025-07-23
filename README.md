@@ -43,7 +43,7 @@ O objetivo do projeto foi explorar um dataset público da Netflix com foco em ap
 
 ## Armazenamento e Conexão do Dataset no Amazon S3 com QuickSight
 
-Para facilitar o acesso e a visualização dos dados no QuickSight, armazenei o dataset netflix_titles.csv em um bucket do Amazon S3 chamado nextwork-quicksight-project-saahmukai. Também criei e editei um arquivo manifest.json, que é essencial para o QuickSight entender o formato e a localização do dataset.
+Para facilitar o acesso e a visualização dos dados no QuickSight, armazenei o dataset netflix_titles.csv em um bucket do Amazon S3 chamado quicksight-project-saahmukai. Também criei e editei um arquivo manifest.json, que é essencial para o QuickSight entender o formato e a localização do dataset.
 
 ### O processo foi:
 
