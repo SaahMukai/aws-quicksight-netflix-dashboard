@@ -1,6 +1,6 @@
 # 🎬 Netflix Dashboard com AWS QuickSight
 
-Projeto realizado como parte da trilha de aprendizado da plataforma [Nextwork](https://learn.nextwork.org/), com foco em visualização de dados usando AWS.
+Projeto de visualização de dados construído com AWS S3 e QuickSight, com ênfase em boas práticas de BI e storytelling com dados.
 
 ## Objetivo
 
